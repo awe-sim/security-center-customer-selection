@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://github.com/awe-sim/security-center-customer-selection",
   "scripts": {
     "dev": "vite",
     "test": "vitest",
